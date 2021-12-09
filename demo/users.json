@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Huseyn",
+        "type":"Student",
+        "email":"hyusifov2@art.edu",
+        "classes":[700,608,635]
+    },
+    {   
+        "name":"Yusif",
+        "type":"Student",
+        "email":"yyusifov2@art.edu",
+        "classes":[111,222,999]
+    },
+    {
+        "name":"Fikrat",
+        "type":"Teacher",
+        "email":"fyusifov2@art.edu",
+        "classes":[333,444,555]
+    }
+]
